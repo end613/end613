@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @end613
+- 👋 Hi, I’m Everett De Bree ( @end613 )
 - 👀 I’m interested in being a full-stack developer.
 - 🌱 I’m currently learning Java.
 - 💞️ I’m looking to collaborate on academic projects.

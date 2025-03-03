@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Everett De Bree ( @end613 )
 - 👀 I’m interested in being a full-stack developer.
-- 🌱 I’m currently learning Java.
+- 🌱 I’m currently studying for BS in Computer Science
 - 💞️ I’m looking to collaborate on academic projects.
 - 📫 How to reach me 
 
